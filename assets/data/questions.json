@@ -1,0 +1,52 @@
+[
+  { 
+    "question": "In order to make a sensible __________ among the different vacuum cleaners available, it is important to do some research.", 
+    "answers": ["comparing", "comparison", "compares", "comparative"], 
+    "correctAnswer": "comparison"
+  },
+  {
+    "question": "The local department store has to make a sustained effort at this time of the year to __________ customer demand for summer clothing.",
+    "answers": ["satisfy", "satisfaction", "satisfies", "satisfying"],
+    "correctAnswer": "satisfy"
+  },
+  {
+    "question": "A good team leader must be able to __________ his colleagues to face the challenge of a downturn in business.", 
+    "answers": ["inspiring", "inspiration", "inspires", "inspire"], 
+    "correctAnswer": "inspire" 
+  },
+  {
+    "question": "The __________ trend in children's desire to wear designer label clothes should be exploited.", 
+    "answers": ["currant", "current", "occuring", "occured"], 
+    "correctAnswer": "current" 
+  },
+  {
+    "question": "You have to __________ the public that it is in their own interest to read the instructions on all our medicines.", 
+    "answers": ["convict", "conviction", "convince", "convincing"], 
+    "correctAnswer": "convince" 
+  },
+  {
+    "question": "In order to survive in this business you must adopt a __________ stance.", 
+    "answers": ["competition", "competing", "competitor", "competitive"], 
+    "correctAnswer": "competitive" 
+  },
+  {
+    "question": "The __________ of alcohol is not allowed in any of the company's premises in order to present a clean image.", 
+    "answers": ["consumer", "consumption", "consuming", "consumes"], 
+    "correctAnswer": "consumption" 
+  },
+  {
+    "question": "When you are setting out to __________ new customers in an advertisement, choose the right words.", 
+    "answers": ["attraction", "attractive", "attract", "attracts"], 
+    "correctAnswer": "attract" 
+  },
+  {
+    "question": "The really effective television commercial is the one that __________ you of its authenticity.", 
+    "answers": ["persuades", "persuasion", "persuasive", "persuading"], 
+    "correctAnswer": "persuades" 
+  },
+  {
+    "question": "I can strongly recommend this __________ as the best available on the market today.", 
+    "answers": ["producer", "product", "production", "produce"], 
+    "correctAnswer": "product" 
+  }
+]
